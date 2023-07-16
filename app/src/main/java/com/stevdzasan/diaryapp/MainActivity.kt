@@ -14,7 +14,7 @@ import com.stevdzasan.diaryapp.data.database.ImageToDeleteDao
 import com.stevdzasan.diaryapp.data.database.ImageToUploadDao
 import com.stevdzasan.diaryapp.navigation.Screen
 import com.stevdzasan.diaryapp.navigation.SetupNavGraph
-import com.stevdzasan.diaryapp.ui.theme.DiaryAppTheme
+import com.example.ui.theme.DiaryAppTheme
 import com.stevdzasan.diaryapp.util.Constants.APP_ID
 import com.stevdzasan.diaryapp.util.retryDeletingImageFromFirebase
 import com.stevdzasan.diaryapp.util.retryUploadingImageToFirebase

@@ -18,7 +18,7 @@ import com.google.accompanist.pager.ExperimentalPagerApi
 import com.google.accompanist.pager.rememberPagerState
 import com.stevdzasan.diaryapp.model.Mood
 import com.stevdzasan.diaryapp.model.RequestState
-import com.stevdzasan.diaryapp.presentation.components.DisplayAlertDialog
+import com.example.ui.components.DisplayAlertDialog
 import com.stevdzasan.diaryapp.presentation.screens.auth.AuthenticationScreen
 import com.stevdzasan.diaryapp.presentation.screens.auth.AuthenticationViewModel
 import com.stevdzasan.diaryapp.presentation.screens.home.HomeScreen

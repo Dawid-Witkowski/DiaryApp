@@ -20,7 +20,7 @@ import com.maxkeppeler.sheets.calendar.models.CalendarSelection
 import com.maxkeppeler.sheets.clock.ClockDialog
 import com.maxkeppeler.sheets.clock.models.ClockSelection
 import com.stevdzasan.diaryapp.model.Diary
-import com.stevdzasan.diaryapp.presentation.components.DisplayAlertDialog
+import com.example.ui.components.DisplayAlertDialog
 import com.stevdzasan.diaryapp.util.toInstant
 import java.time.LocalDate
 import java.time.LocalTime

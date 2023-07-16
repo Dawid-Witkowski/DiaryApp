@@ -24,10 +24,10 @@ import com.google.accompanist.pager.ExperimentalPagerApi
 import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.PagerState
 import com.stevdzasan.diaryapp.model.Diary
-import com.stevdzasan.diaryapp.model.GalleryImage
-import com.stevdzasan.diaryapp.model.GalleryState
+import com.example.ui.GalleryImage
+import com.example.ui.GalleryState
 import com.stevdzasan.diaryapp.model.Mood
-import com.stevdzasan.diaryapp.presentation.components.GalleryUploader
+import com.example.ui.components.GalleryUploader
 import io.realm.kotlin.ext.toRealmList
 import kotlinx.coroutines.launch
 
